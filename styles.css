@@ -1,0 +1,46 @@
+h1{
+    color: red;
+    background-color: lightgreen;
+    text-align: center;
+}
+#h5one{
+    color: darkgrey;
+    background-color: red;
+    text-align: center;
+}
+#pone{
+    color: forestgreen;
+    background-color: aquamarine;
+    text-align: center;
+}
+#h5two{
+    color: darkgrey;
+    background-color: red;
+    text-align: center;
+}
+#ptwo{
+    color: forestgreen;
+    background-color: aquamarine;
+    text-align: center;
+}
+#h5three{
+    color: lightblue;
+    background-color: green;
+    text-align: center;
+}
+#pthree{
+    color: indigo;
+    background-color: lightgreen;
+    text-align: center;
+}
+form{
+    text-align: center; 
+    background-color: lightgreen;
+    
+}
+body{
+    background-image: url(https://www.blackpast.org/wp-content/uploads/bob-marley.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
